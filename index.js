@@ -154,17 +154,7 @@
 
     // document.getElementById("welcome-el").innerText=message;
 
-    // // Example 2:
-
-    // let name2='Darrell D.';
-    // let greeting3 = ' says Fuck You!';
-    // let message2 = name2 + greeting3;
-
-    // document.getElementById('FU').innerText=message2;
-
-
-
-    // console.log(welcomeEl);
+  
 
     // ALTERNATIVE:
 
